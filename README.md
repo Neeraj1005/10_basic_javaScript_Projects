@@ -14,8 +14,8 @@
 
 - [x] Dark mode toggle (Dark theme)
 
-- [ ] Carousel
+- [X] Carousel
 
-- [ ] Sound Board
+- [X] Sound Board
 
-- [ ] Zoom effect
+- [X] Zoom effect
